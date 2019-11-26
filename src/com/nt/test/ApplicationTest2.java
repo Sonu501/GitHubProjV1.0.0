@@ -11,7 +11,7 @@ public class ApplicationTest2 {
 		else {
 			System.out.println("Hellow good night");
 		}
-
+		System.out.println("My name is x and i commit this to the remote repository");
 	}
 
 }
